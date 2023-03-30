@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrossPlatformProject.Controllers.GetTasksCreatedBy">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Frame BackgroundColor="Blue" Padding="24" CornerRadius="0">
+                <Label Text="Tasks Created By"
+                       TextColor="White"
+                       VerticalOptions="CenterAndExpand" 
+                       HorizontalOptions="CenterAndExpand" 
+                       FontSize="24"
+                       />
+            </Frame>
+
+            <ListView x:Name="listOfTasks" RowHeight="55" ItemSelected="listOfTasks_ItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout VerticalOptions="FillAndExpand" Padding="10, 0, 10, 0">
+                                <Label Text="{Binding Path=assignedToName, StringFormat='Assigned to: {0}'}"/>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="{Binding Path=description, StringFormat='Description: {0}'}"/>
+                                    <Label Text="{Binding Path=done, StringFormat='Done: {0}'}" TextColor="Red" HorizontalOptions="EndAndExpand"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

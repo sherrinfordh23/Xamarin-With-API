@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FlyoutPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:api="clr-namespace:CrossPlatformProject.Controllers"
+             x:Class="CrossPlatformProject.Menu.Master">
+
+    <FlyoutPage.Flyout>
+        <ContentPage Title="My API request">
+            <StackLayout>
+                <Button x:Name="btnGetAllUsers" Text="Get All Users" Clicked="btnGetAllUsers_Clicked"/>
+                <Button x:Name="btnCreateATask" Text="Create A Task" Clicked="btnCreateATask_Clicked" />
+                <Button x:Name="btnGetTasksCreatedBy" Text="Get Tasks Created by" Clicked="btnGetTasksCreatedBy_Clicked"/>
+                <Button x:Name="btnGetTasksAssignedTo" Text="Get Tasks Assigned To" Clicked="btnGetTasksAssignedTo_Clicked" />
+            </StackLayout>
+        </ContentPage>
+    </FlyoutPage.Flyout>
+    <FlyoutPage.Detail>
+        <api:HomePage/>
+    </FlyoutPage.Detail>
+</FlyoutPage>   

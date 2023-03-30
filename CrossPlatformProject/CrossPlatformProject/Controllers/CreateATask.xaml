@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrossPlatformProject.Controllers.CreateATask">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="Blue" Padding="24" CornerRadius="0">
+                <Label Text="Create A Task Page"
+                       TextColor="White"
+                       VerticalOptions="CenterAndExpand" 
+                       HorizontalOptions="CenterAndExpand"
+                       FontSize="24"
+                       />
+            </Frame>
+            <Frame CornerRadius="10" Margin="5, 0, 5, 0" Padding="45">
+                <StackLayout Margin="5, 0, 5, 0">
+                    <Entry x:Name="txtTaskDescription" Text="" Placeholder="Description..."/>
+                    <StackLayout Orientation="Horizontal">
+                        <Picker x:Name="pickerUser" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" ItemDisplayBinding="{Binding email}"/>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+            <Button Margin="5, 0, 5, 0" x:Name="btnAddTask" Text="Add Task" TextColor="white" BackgroundColor="OrangeRed" CornerRadius="10" Clicked="btnAddTask_Clicked"/>
+            <Button Margin="5, 0, 5, 0" x:Name="btnReset" Text="Reset" TextColor="white" BackgroundColor="DimGray" CornerRadius="10" Clicked="btnReset_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

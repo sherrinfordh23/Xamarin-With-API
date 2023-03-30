@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrossPlatformProject.Controllers.UpdateATaskPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Updating Task" FontSize="40" TextColor="DarkGreen" HorizontalOptions="CenterAndExpand"/>
+            <Label x:Name="lblCreatedBy" Text="" FontSize="20" TextColor="Black"/>
+            <Label x:Name="lblDescription" Text="" FontSize="20" TextColor="Black"/>
+            <Label x:Name="lblDone" Text="" FontSize="20" TextColor="Black"/>
+
+            <Switch x:Name="switchDone" Toggled="switchDone_Toggled"/>
+
+            <Button Text="Save The Update" BackgroundColor="Black" TextColor="White" CornerRadius="20" Clicked="Button_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrossPlatformProject.Controllers.GetAllUsersPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="Blue" Padding="24" CornerRadius="0">
+                <Label Text="All Users Page"
+                       TextColor="White"
+                       VerticalOptions="CenterAndExpand" 
+                       HorizontalOptions="CenterAndExpand" 
+                       FontSize="24"
+                       />
+            </Frame>
+            
+            <ListView x:Name="listOfUsers" RowHeight="55" ItemSelected="listOfUsers_ItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout VerticalOptions="FillAndExpand" Padding="10, 0, 10, 0">
+                                <Label Text="{Binding Path=name, StringFormat='Name: {0}'}" HorizontalOptions="StartAndExpand"/>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="{Binding Path=email, StringFormat='Email: {0}'}" HorizontalOptions="StartAndExpand"/>
+                                    <Label Text="{Binding uid}" HorizontalOptions="EndAndExpand" TextColor="Red"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

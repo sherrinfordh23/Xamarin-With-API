@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrossPlatformProject.Controllers.DeleteTaskPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Are you sure about deleting the task?" FontSize="40" TextColor="Red" HorizontalOptions="CenterAndExpand"/>
+            <Label x:Name="lblAssignedToName" Text="" FontSize="20" TextColor="Black"/>
+            <Label x:Name="lblDescription" Text="" FontSize="20" TextColor="Black"/>
+            <Label x:Name="lblDone" Text="" FontSize="20" TextColor="Black"/>
+
+            <Button Text="Yes! Delete the Task..." BackgroundColor="Red" TextColor="White" CornerRadius="10" Clicked="Button_Clicked"/>
+            <Button Text="No" BackgroundColor="Blue" TextColor="White" CornerRadius="10" Clicked="Button_Clicked_1"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

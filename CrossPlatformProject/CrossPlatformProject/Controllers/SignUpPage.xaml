@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrossPlatformProject.Controllers.SignUpPage"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <StackLayout Padding="10" Spacing="30">
+            <Image Source="profile.jpg" HeightRequest="200" WidthRequest="200"/>
+            <Entry x:Name="txtName" Text="" Placeholder="Name..."/>
+            <Entry x:Name="txtEmail" Text="" Placeholder="Email..."/>
+            <Entry x:Name="txtPassword" Text="" IsPassword="True" Placeholder="Password..."/>
+            <Entry x:Name="txtPasswordRep" Text="" IsPassword="True" Placeholder="Repeat Password..."/>
+            <Button x:Name="btnCreate" Text="Create" TextColor="White" BackgroundColor="Black" CornerRadius="20" Clicked="btnCreate_Clicked"/>
+            <Button x:Name="btnCancel" Text="Cancel" TextColor="White" BackgroundColor="Red" CornerRadius="20" Clicked="btnCancel_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

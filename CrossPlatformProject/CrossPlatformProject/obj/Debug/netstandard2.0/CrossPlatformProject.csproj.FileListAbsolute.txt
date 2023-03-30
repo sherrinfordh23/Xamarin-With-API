@@ -1,0 +1,95 @@
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\bin\Debug\netstandard2.0\CrossPlatformProject.deps.json
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\bin\Debug\netstandard2.0\CrossPlatformProject.dll
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\bin\Debug\netstandard2.0\ref\CrossPlatformProject.dll
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\bin\Debug\netstandard2.0\CrossPlatformProject.pdb
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.AssemblyInfoInputs.cache
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.AssemblyInfo.cs
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.csproj.CoreCompileInputs.cache
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.dll
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\ref\CrossPlatformProject.dll
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.pdb
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.csproj.AssemblyReference.cache
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\HomePage.xaml.g.cs
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\LoginPage.xaml.g.cs
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\SignUpPage.xaml.g.cs
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Menu\Master.xaml.g.cs
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\GetAllUsersPage.xaml.g.cs
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\CreateATask.xaml.g.cs
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\GetTasksCreatedBy.xaml.g.cs
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\GetTasksAssignedTo.xaml.g.cs
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\DeleteTaskPage.xaml.g.cs
+D:\Winter2023\CrossPlatform\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\UpdateATaskPage.xaml.g.cs
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\bin\Debug\netstandard2.0\CrossPlatformProject.deps.json
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\bin\Debug\netstandard2.0\CrossPlatformProject.dll
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\bin\Debug\netstandard2.0\ref\CrossPlatformProject.dll
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\bin\Debug\netstandard2.0\CrossPlatformProject.pdb
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.csproj.AssemblyReference.cache
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\CreateATask.xaml.g.cs
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\DeleteTaskPage.xaml.g.cs
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\GetAllUsersPage.xaml.g.cs
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\GetTasksAssignedTo.xaml.g.cs
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\GetTasksCreatedBy.xaml.g.cs
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\HomePage.xaml.g.cs
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\LoginPage.xaml.g.cs
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\SignUpPage.xaml.g.cs
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\UpdateATaskPage.xaml.g.cs
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Menu\Master.xaml.g.cs
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.AssemblyInfoInputs.cache
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.AssemblyInfo.cs
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.csproj.CoreCompileInputs.cache
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.dll
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\ref\CrossPlatformProject.dll
+C:\Users\dania\Documents\Student 7 (Winter 2023)\Multiplatform Application\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.pdb
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.csproj.AssemblyReference.cache
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\CreateATask.xaml.g.cs
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\DeleteTaskPage.xaml.g.cs
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\GetAllUsersPage.xaml.g.cs
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\GetTasksAssignedTo.xaml.g.cs
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\GetTasksCreatedBy.xaml.g.cs
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\HomePage.xaml.g.cs
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\LoginPage.xaml.g.cs
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\SignUpPage.xaml.g.cs
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\UpdateATaskPage.xaml.g.cs
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Menu\Master.xaml.g.cs
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.AssemblyInfoInputs.cache
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.AssemblyInfo.cs
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.dll
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\ref\CrossPlatformProject.dll
+C:\Users\thanh\Downloads\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.pdb
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.csproj.AssemblyReference.cache
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\CreateATask.xaml.g.cs
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\DeleteTaskPage.xaml.g.cs
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\GetAllUsersPage.xaml.g.cs
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\GetTasksAssignedTo.xaml.g.cs
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\GetTasksCreatedBy.xaml.g.cs
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\HomePage.xaml.g.cs
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\LoginPage.xaml.g.cs
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\SignUpPage.xaml.g.cs
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Controllers\UpdateATaskPage.xaml.g.cs
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\Menu\Master.xaml.g.cs
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.AssemblyInfoInputs.cache
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.AssemblyInfo.cs
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.csproj.CoreCompileInputs.cache
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.dll
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\ref\CrossPlatformProject.dll
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\CrossPlatformProject.pdb
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\bin\Debug\netstandard2.0\CrossPlatformProject.deps.json
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\bin\Debug\netstandard2.0\CrossPlatformProject.dll
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\bin\Debug\netstandard2.0\ref\CrossPlatformProject.dll
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\bin\Debug\netstandard2.0\CrossPlatformProject.pdb
+D:\CrossPlatformProject\CrossPlatformProject\CrossPlatformProject\obj\Debug\netstandard2.0\XamlC.stamp
